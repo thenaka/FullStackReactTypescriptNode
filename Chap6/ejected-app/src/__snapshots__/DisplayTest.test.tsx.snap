@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Test Display Test matches snapshot 1`] = `
+exports[`Test DisplayText matches snapshot 1`] = `
 <body>
   <div>
     <form>
@@ -26,9 +26,6 @@ exports[`Test Display Test matches snapshot 1`] = `
         <label
           data-testid="final-msg"
         />
-      </div>
-      <div>
-        this is just a test entry
       </div>
     </form>
   </div>
